@@ -63,5 +63,6 @@
 */DerivedDataCache/*
 
 # Starter Content
-BuildingEscape/Content/StarterContent/*
+BuildingEscape/Content/StarterContent/Textures/*
+BuildingEscape/Content/StarterContent/HDRI/*
 *.tss
